@@ -1,4 +1,4 @@
-# Hi, I'm Charukhan 👋
+# Hii, I'm Charukhan 👋
 
 ## Aspiring Generative AI Engineer (LLMs & Automation)
 
